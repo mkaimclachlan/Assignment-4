@@ -1,0 +1,2 @@
+[22-Apr-2024 02:14:34 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[22-Apr-2024 02:14:38 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
